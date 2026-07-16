@@ -54,7 +54,20 @@
       "config": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81/config.json",
       "marca_dagua": "",
       "atualizado_em": "2026-07-16T18:47:26.436498+00:00"
+    },
+    {
+      "id": "56442f74-eba2-4f31-bade-3f8b74553cf0",
+      "nome": "Modelo de Protocolo",
+      "tipo": "Word",
+      "categoria": "Empresa",
+      "norma": "-",
+      "data": "16/07/2026",
+      "pasta": "empresa/56442f74-eba2-4f31-bade-3f8b74553cf0",
+      "arquivo": "empresa/56442f74-eba2-4f31-bade-3f8b74553cf0/modelo.docx",
+      "config": "empresa/56442f74-eba2-4f31-bade-3f8b74553cf0/config.json",
+      "marca_dagua": "",
+      "atualizado_em": "2026-07-16T18:48:07.393798+00:00"
     }
   ],
-  "atualizado_em": "2026-07-16T18:47:26.436498+00:00"
+  "atualizado_em": "2026-07-16T18:48:07.393798+00:00"
 }

@@ -1,5 +1,21 @@
 {
   "versao": "1.0",
   "empresa": [],
-  "academicos": []
+  "academicos": [],
+  "modelos": [
+    {
+      "id": "a055448b-f194-44a8-af39-b5335a3755d6",
+      "nome": "Procedimento Operacional Padrão",
+      "tipo": "Word",
+      "categoria": "Empresa",
+      "norma": "-",
+      "data": "16/07/2026",
+      "pasta": "empresa/a055448b-f194-44a8-af39-b5335a3755d6",
+      "arquivo": "empresa/a055448b-f194-44a8-af39-b5335a3755d6/modelo.docx",
+      "config": "empresa/a055448b-f194-44a8-af39-b5335a3755d6/config.json",
+      "marca_dagua": "",
+      "atualizado_em": "2026-07-16T18:17:41.141757+00:00"
+    }
+  ],
+  "atualizado_em": "2026-07-16T18:17:41.141757+00:00"
 }

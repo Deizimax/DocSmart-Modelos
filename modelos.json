@@ -41,7 +41,20 @@
       "config": "empresa/ebeccb1f-804b-4b92-ab0e-cd3ccc8d1b08/config.json",
       "marca_dagua": "",
       "atualizado_em": "2026-07-16T18:47:14.498761+00:00"
+    },
+    {
+      "id": "5b04e6c8-0341-458b-9e72-0b45e73ded81",
+      "nome": "Modelo de Política",
+      "tipo": "Word",
+      "categoria": "Empresa",
+      "norma": "-",
+      "data": "16/07/2026",
+      "pasta": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81",
+      "arquivo": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81/modelo.docx",
+      "config": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81/config.json",
+      "marca_dagua": "",
+      "atualizado_em": "2026-07-16T18:47:26.436498+00:00"
     }
   ],
-  "atualizado_em": "2026-07-16T18:47:14.498761+00:00"
+  "atualizado_em": "2026-07-16T18:47:26.436498+00:00"
 }

@@ -4,19 +4,6 @@
   "academicos": [],
   "modelos": [
     {
-      "id": "5b04e6c8-0341-458b-9e72-0b45e73ded81",
-      "nome": "Modelo de Política",
-      "tipo": "Word",
-      "categoria": "Empresa",
-      "norma": "-",
-      "data": "16/07/2026",
-      "pasta": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81",
-      "arquivo": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81/modelo.docx",
-      "config": "empresa/5b04e6c8-0341-458b-9e72-0b45e73ded81/config.json",
-      "marca_dagua": "",
-      "atualizado_em": "2026-07-16T18:47:26.436498+00:00"
-    },
-    {
       "id": "e8dfa5fa-4496-4ab9-a523-293fd160fe35",
       "nome": "POP-XXX-XX-VERS-XX - Modelo de Procedimento Operacional Padrão",
       "tipo": "Word",
@@ -30,5 +17,5 @@
       "atualizado_em": "2026-07-17T10:26:28.835216+00:00"
     }
   ],
-  "atualizado_em": "2026-07-17T10:39:00.252820+00:00"
+  "atualizado_em": "2026-07-17T10:39:10.491649+00:00"
 }

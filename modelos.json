@@ -4,19 +4,6 @@
   "academicos": [],
   "modelos": [
     {
-      "id": "58b04a33-dd72-469d-9fe4-71eeed0a28e5",
-      "nome": "POP-XXX-XX-VERS-XX - Modelo de Procedimento Operacional Padrão",
-      "tipo": "Word",
-      "categoria": "Empresa",
-      "norma": "-",
-      "data": "17/07/2026",
-      "pasta": "empresa/58b04a33-dd72-469d-9fe4-71eeed0a28e5",
-      "arquivo": "empresa/58b04a33-dd72-469d-9fe4-71eeed0a28e5/modelo.docx",
-      "config": "empresa/58b04a33-dd72-469d-9fe4-71eeed0a28e5/config.json",
-      "marca_dagua": "",
-      "atualizado_em": "2026-07-17T10:40:31.018865+00:00"
-    },
-    {
       "id": "c3b353ad-da53-4e7c-b3b3-01a11cfb910a",
       "nome": "POP-XXX-XX-VERS-XX - Modelo de Procedimento Operacional Padrão",
       "tipo": "Word",
@@ -30,5 +17,5 @@
       "atualizado_em": "2026-07-17T11:02:26.400349+00:00"
     }
   ],
-  "atualizado_em": "2026-07-17T11:06:08.700265+00:00"
+  "atualizado_em": "2026-07-17T11:06:18.309514+00:00"
 }

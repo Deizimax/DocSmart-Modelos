@@ -2,20 +2,6 @@
   "versao": "1.0",
   "empresa": [],
   "academicos": [],
-  "modelos": [
-    {
-      "id": "c3b353ad-da53-4e7c-b3b3-01a11cfb910a",
-      "nome": "POP-XXX-XX-VERS-XX - Modelo de Procedimento Operacional Padrão",
-      "tipo": "Word",
-      "categoria": "Empresa",
-      "norma": "-",
-      "data": "17/07/2026",
-      "pasta": "empresa/c3b353ad-da53-4e7c-b3b3-01a11cfb910a",
-      "arquivo": "empresa/c3b353ad-da53-4e7c-b3b3-01a11cfb910a/modelo.docx",
-      "config": "empresa/c3b353ad-da53-4e7c-b3b3-01a11cfb910a/config.json",
-      "marca_dagua": "",
-      "atualizado_em": "2026-07-17T11:02:26.400349+00:00"
-    }
-  ],
-  "atualizado_em": "2026-07-17T11:06:18.309514+00:00"
+  "modelos": [],
+  "atualizado_em": "2026-07-17T11:06:29.773260+00:00"
 }

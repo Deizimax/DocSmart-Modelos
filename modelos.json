@@ -15,20 +15,7 @@
       "config": "empresa/dac2a061-4902-4eed-ba44-d4de5175d2e4/config.json",
       "marca_dagua": "",
       "atualizado_em": "2026-07-17T11:08:28.000082+00:00"
-    },
-    {
-      "id": "af491ee6-29a6-4030-9f02-e4e6862bcc54",
-      "nome": "PRO-XXX-XX-VERS-XX -  Modelo de Protocolo",
-      "tipo": "Word",
-      "categoria": "Empresa",
-      "norma": "-",
-      "data": "17/07/2026",
-      "pasta": "empresa/af491ee6-29a6-4030-9f02-e4e6862bcc54",
-      "arquivo": "empresa/af491ee6-29a6-4030-9f02-e4e6862bcc54/modelo.docx",
-      "config": "empresa/af491ee6-29a6-4030-9f02-e4e6862bcc54/config.json",
-      "marca_dagua": "",
-      "atualizado_em": "2026-07-17T11:17:25.635609+00:00"
     }
   ],
-  "atualizado_em": "2026-07-17T16:54:03.658723+00:00"
+  "atualizado_em": "2026-07-20T11:35:49.691868+00:00"
 }
